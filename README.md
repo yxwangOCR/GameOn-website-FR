@@ -39,6 +39,6 @@
 - Fix existing display errors.
 - Test all button and form input functionality (test for correct and incorrect values).
 ## Mockup
-![mockup1](https://github.com/yxwangOCR/YixuanWANG_P4_03112021_GameOn-website/blob/49a3b74ceed506c165f63e767ac8acf48a182d3e/starterOnly/Logo.png)
-![mockup2](![Accueil](https://github.com/yxwangOCR/YixuanWANG_P4_03112021_GameOn-website/blob/49a3b74ceed506c165f63e767ac8acf48a182d3e/starterOnly/Logo.png))
+![mockup1](https://github.com/yxwangOCR/YixuanWANG_P4_03112021_GameOn-website/blob/f099ce17e266787a1e01e4c3ce1575c98fdef65f/starterOnly/mockup.png)
+![mockup2](https://github.com/yxwangOCR/YixuanWANG_P4_03112021_GameOn-website/blob/f099ce17e266787a1e01e4c3ce1575c98fdef65f/starterOnly/mockup2.png)
 
